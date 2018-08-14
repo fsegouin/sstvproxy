@@ -1,0 +1,13 @@
+{
+	"service": "",
+	"username": "",
+	"password": "",
+	"server": "",
+	"quality": 1,
+	"stream": "rtmp",
+	"ip": "",
+	"port": 99,
+	"externalip": "",
+	"externalport": 99,
+	"kodiport": 8080
+}
