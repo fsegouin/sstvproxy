@@ -1,5 +1,5 @@
 # sstvproxy
-YAP Proxy Docker Image
+YAP Proxy Docker Image for armhf
 
 ## What is this image for?
 If you don't know what this is for, then you don't need it. Based on [vorghahn's](https://github.com/vorghahn/sstvProxy) hard work.
